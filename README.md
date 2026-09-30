@@ -6,9 +6,9 @@ I originally implemented Mine Sweeper using JavaScript & jQuery, HTML, and CSS a
 
 You can choose from "Beginner", "Intermediate", or "Expert" difficulties, which match those that were included in the Windows 3.11 version of the game. I also added a "Custom" difficulty, which gives you control over the number or rows, columns, and mines.
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="public/images/minesweeper03.png" style="max-width: 300px"/>
-</div>
+<p align="center">
+    <img src="public/images/minesweeper03.png" width="300" />
+</p>
 
 **Warning**: just like the original, it's surprisingly addicting to play. 😉
 
