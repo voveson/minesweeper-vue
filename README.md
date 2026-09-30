@@ -4,6 +4,10 @@ A Vue.js implementation of Microsoft's classic game.
 
 I originally implemented Mine Sweeper using JavaScript & jQuery, HTML, and CSS as part of an assignment for one of the first classes I took while studying computer science at the University of Utah. I was recently looking through my [original code](https://github.com/voveson/minesweeper) (which was bad 🫣), so I decided to clean it up and port it into a fresh Vue 3 project. 
 
+You can choose from "Beginner", "Intermediate", or "Expert" difficulties, which match those that were included in the Windows 3.11 version of the game. I also added a "Custom" difficulty, which gives you control over the number or rows, columns, and mines.
+
+![minesweeper03.png](public/images/minesweeper03.png)
+
 **Warning**: just like the original, it's surprisingly addicting to play. 😉
 
 ---
